@@ -5,3 +5,4 @@
 * 9:50 - add basic files (log, capstone-proposal, gitignore)
 * 10:30 - plan capstone proposal
 * 11:30 - research three.js
+* 1:45 - watch tutorials on basic three.js
