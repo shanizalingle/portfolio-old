@@ -3,3 +3,4 @@
 * 8:30 - research licenses for software 
 * 9:30 - initalize repository
 * 9:50 - add basic files (log, capstone-proposal, gitignore)
+* 10:30 - plan capstone proposal
