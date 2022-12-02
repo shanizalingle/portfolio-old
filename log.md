@@ -6,3 +6,4 @@
 * 10:30 - plan capstone proposal
 * 11:30 - research three.js
 * 1:45 - watch tutorials on basic three.js
+* 3:10 - reading three.js documentation
