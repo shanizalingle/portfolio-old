@@ -20,5 +20,6 @@ _Show off my personality and work as a programmer on a single page application f
 * Add 3D models with Three.js
 * Look into styling with SASS
 * Try Parallax scrolling features
+* Mouse trails with CSS
 
 
